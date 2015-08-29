@@ -1,0 +1,8 @@
+C:\Users\GianMarco\documents\visual studio 2015\Projects\Backup on Server\Backup on Server\bin\Debug\Backup on Server.exe.config
+C:\Users\GianMarco\documents\visual studio 2015\Projects\Backup on Server\Backup on Server\bin\Debug\Backup on Server.exe
+C:\Users\GianMarco\documents\visual studio 2015\Projects\Backup on Server\Backup on Server\bin\Debug\Backup on Server.pdb
+C:\Users\GianMarco\documents\visual studio 2015\Projects\Backup on Server\Backup on Server\obj\Debug\Backup on Server.exe
+C:\Users\GianMarco\documents\visual studio 2015\Projects\Backup on Server\Backup on Server\obj\Debug\Backup on Server.pdb
+F:\GitHub\ToolBackup\Backup on Server\Backup on Server\bin\Debug\Backup on Server.exe.config
+F:\GitHub\ToolBackup\Backup on Server\Backup on Server\obj\Debug\Backup on Server.exe
+F:\GitHub\ToolBackup\Backup on Server\Backup on Server\obj\Debug\Backup on Server.pdb

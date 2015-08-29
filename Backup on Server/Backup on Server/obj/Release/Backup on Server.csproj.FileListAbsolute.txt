@@ -1,0 +1,5 @@
+c:\users\gianmarco\documents\visual studio 2015\Projects\Backup on Server\Backup on Server\bin\Release\Backup on Server.exe.config
+c:\users\gianmarco\documents\visual studio 2015\Projects\Backup on Server\Backup on Server\bin\Release\Backup on Server.exe
+c:\users\gianmarco\documents\visual studio 2015\Projects\Backup on Server\Backup on Server\bin\Release\Backup on Server.pdb
+c:\users\gianmarco\documents\visual studio 2015\Projects\Backup on Server\Backup on Server\obj\Release\Backup on Server.exe
+c:\users\gianmarco\documents\visual studio 2015\Projects\Backup on Server\Backup on Server\obj\Release\Backup on Server.pdb
