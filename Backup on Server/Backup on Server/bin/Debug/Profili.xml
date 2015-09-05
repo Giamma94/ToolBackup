@@ -2,7 +2,6 @@
 
 <ArrayOfProfile>
 
-
 <Profile Name="test">
   <DirIniziale>C:\Users\GianMarco\Documents\Test</DirIniziale>
   <DirDestinazione>\\READYSHARE\USB_Storage\Backup\TestServer</DirDestinazione>
