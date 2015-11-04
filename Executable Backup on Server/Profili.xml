@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ArrayOfProfile>
+
+<Profile Name="test">
+  <DirIniziale>C:\Users\GianMarco\Documents\Test</DirIniziale>
+  <DirDestinazione>\\READYSHARE\USB_Storage\Backup\TestServer</DirDestinazione>
+  <SyncSubDirs>TRUE</SyncSubDirs>
+</Profile>
+
+<Profile Name="uTorrent">
+  <DirIniziale>F:\uTorrent\Completati</DirIniziale>
+  <DirDestinazione>\\READYSHARE\USB_Storage\Torrent</DirDestinazione>
+  <SyncSubDirs>TRUE</SyncSubDirs>
+</Profile>
+
+<Profile Name="Lezioni">
+  <DirIniziale>C:\Users\GianMarco\Documents\Lezioni</DirIniziale>
+  <DirDestinazione>\\READYSHARE\USB_Storage\Lezioni</DirDestinazione>
+  <SyncSubDirs>TRUE</SyncSubDirs>
+</Profile>
+
+<Profile Name="Visual Studio 2015">
+  <DirIniziale>C:\Users\GianMarco\Documents\Visual Studio 2015</DirIniziale>
+  <DirDestinazione>\\READYSHARE\USB_Storage\Visual Studio 2015</DirDestinazione>
+  <SyncSubDirs>TRUE</SyncSubDirs>
+</Profile>
+
+</ArrayOfProfile>
