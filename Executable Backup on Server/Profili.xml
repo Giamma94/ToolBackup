@@ -20,7 +20,7 @@
   <SyncSubDirs>TRUE</SyncSubDirs>
 </Profile>
 
-<Profile Name="Visual Studio 2015">
+<Profile Name="VS2013">
   <DirIniziale>C:\Users\GianMarco\Documents\Visual Studio 2015</DirIniziale>
   <DirDestinazione>\\READYSHARE\USB_Storage\Visual Studio 2015</DirDestinazione>
   <SyncSubDirs>TRUE</SyncSubDirs>
